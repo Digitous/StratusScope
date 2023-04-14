@@ -1,5 +1,5 @@
 # LayerScope
-LayerScope is a language model tool that utilizes HuggingFace's Transformers library and loads two language models of the same architecture and parameter size, consolidates the weights and biases within each layer of both models, examines the aggregate difference between layers, and generates a bar graph detailing which layers have the most difference between them with matplotlib.
+LayerScope is a language model tool that utilizes HuggingFace's Transformers library and loads two language models of the same architecture and parameter size, consolidates the weights and biases within each layer of both models, examines the aggregate difference between layers, and generates a bar graph detailing which layers have the most difference between each model with matplotlib.
 
 ![Figure_2](https://user-images.githubusercontent.com/107712289/232157041-173e8a69-f7e2-439c-b527-61c2da70296d.png)
 
