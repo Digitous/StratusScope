@@ -9,6 +9,9 @@ Validation Check - Using LM BlockMerge, only layer 15 was 100% transferred from 
 
 ![Figure_validation](https://user-images.githubusercontent.com/107712289/232157709-3ad6f6db-2f8a-48c3-8f0a-e7c7d138aed3.png)
 
+![Figure_validation](https://github.com/Digitous/StratusScope/blob/main/console_out.PNG)
+
+
 Associated Tool:
 LM BlockMerge
 https://github.com/TehVenomm/LM_Transformers_BlockMerge
